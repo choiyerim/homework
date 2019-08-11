@@ -26,6 +26,9 @@
 	text-align: center;
 	padding:5px;
 }
+#boardList tr{
+	cursor: pointer;
+}
 #boardList{
 	margin:0 auto;
 	margin-top:50px;
